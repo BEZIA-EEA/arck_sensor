@@ -1,5 +1,5 @@
 # arck_sensor
-the best ways to find a word in data in files data base 
+a simple sensor simulator
 
 # language
 french
