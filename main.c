@@ -107,5 +107,7 @@ int main(int argc,char** argv)
 /*
 	close(file);
 */
+	printf("Appuyer sur une touche pour continuer... \n");
+	getchar();
 	return 0;
 }
