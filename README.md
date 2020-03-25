@@ -5,4 +5,4 @@ simple sensor simulation
 french
 
 # compiling 
-gcc -std=c99 -Wall main.c -o cap
+gcc -Wall main.c -o cap
