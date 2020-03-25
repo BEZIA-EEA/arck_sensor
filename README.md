@@ -5,4 +5,6 @@ simple sensor simulation
 french
 
 # compiling 
-gcc -Wall main.c -o cap
+gcc -c main.c
+gcc -c lib.c
+gcc main.o lib.o -o cap
