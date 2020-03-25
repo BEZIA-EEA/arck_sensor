@@ -1,8 +1,8 @@
-# smart_search
-the best ways to find a word in data in files data base 
+# arck_sensor
+simple sensor simulation
 
 # language
-the comments in code source are in french
+french
 
 # compiling 
-gcc -Wall -o num  -c mun.c
+gcc -std=c99 -Wall main.c -o cap
